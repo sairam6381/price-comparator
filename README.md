@@ -1,5 +1,6 @@
-# price-comparator
-                    Compares price of the product entered by the user from e-commerce sites Amazon and Flipkart.
+<h1 align="center">Price Comparison Engine</h1>
+<h4 align="center">Compares price of the product entered by the user from e-commerce sites Amazon and Flipkart.</h4>
+<hr>
 
 
 ## How to use
